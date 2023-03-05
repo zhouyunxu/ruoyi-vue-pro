@@ -20,7 +20,9 @@
 <!--        <module>yudao-module-bpm</module>-->
 <!--        <module>yudao-module-report</module>-->
 <!--        <module>yudao-module-mp</module>-->
-<!--        <module>yudao-module-mall</module>-->
+
+        <!-- 商城模块  yunszhou 解锁 -->
+        <module>yudao-module-mall</module>
         <!-- 示例项目 -->
         <module>yudao-example</module>
     </modules>
